@@ -1,0 +1,13 @@
+{
+  "name": "Nexter",
+  "version": "1.0.0",
+  "description": "Nexter webpage",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
